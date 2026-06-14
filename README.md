@@ -6,6 +6,8 @@
 
 *Searches real listings · Researches them in parallel · Returns recommendations grounded in your actual preferences*
 
+![Real Estate AIgent main page](assets/mainpage.png)
+
 ---
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
@@ -14,7 +16,7 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-WebSockets-009688?style=flat&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
-Built for **INFO 290: Generative AI** at UC Berkeley
+**INFO 290: Generative AI** at UC Berkeley
 
 [**Quick Start →**](SETUP.md) · [**Architecture**](#architecture) · [**Features**](#features) · [**Evals**](#evaluation)
 
